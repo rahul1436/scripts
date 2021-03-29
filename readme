@@ -1,0 +1,1 @@
+We can modify the ASG based on the average CPU utilization of multiple instances. My use case is i have 50+ cassanda nodes running base on avg CPU utilization i scale the machines.
